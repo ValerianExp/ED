@@ -1,0 +1,13 @@
+addSong A s 10
+addSong B s 20
+addSong C s 30
+addToPlaylist A
+addToPlaylist B
+addToPlaylist C
+play
+play
+play
+addToPlaylist A
+play
+recent 999
+FIN

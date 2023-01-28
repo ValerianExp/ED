@@ -1,0 +1,9 @@
+expulsar_caballeros r1
+anyadir_jugador j1
+colocar_caballero j1 r1
+regiones_en_disputa
+puntuacion j1
+expulsar_caballeros r1
+puntuacion j1
+FIN
+
